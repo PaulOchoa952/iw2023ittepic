@@ -14,20 +14,23 @@ git push origin main
 ---creacion de tag
 git tag v0.1
 
---subir cambios al repo remoto
-git push origin main
---cuenta de github
+--subir cambios al repo remoto  
+
+git push origin main  
+
+--cuenta de github  
 ![Alt text](doubleautenticator.PNG)
 --uso social
 
 
 ---tabla de compañeros
-
-IvanRobles19  |https://github.com/IvanRobles19
-Andres        |https://github.com/andrestian01
-Paul Razon    |https://github.com/PaulRazon
-Victor Pacheco|https://github.com/XxXelbichoXxX
-Erick Ramirez|https://github.com/Elery2711
+|Nombre | Enlace|
+|--------------|------------------------------|
+|IvanRobles19  |https://github.com/IvanRobles19|
+|Andres        |https://github.com/andrestian01|
+|Paul Razon    |https://github.com/PaulRazon|
+|Victor Pacheco|https://github.com/XxXelbichoXxX|
+|Erick Ramirez|https://github.com/Elery2711|
             
 --añadir colaborador
 ![Alt text](colaborador.png)
